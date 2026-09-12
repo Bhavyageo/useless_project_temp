@@ -2,34 +2,78 @@
 
 
 
-# [Project Name] 🎯
+# Threads 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: Mindmesh
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead:  - Mehnoor.A.S
+- Member 2: - Bhavya Geo
+  
 
 ### Project Description
-[2-3 lines about what your project does]
+It is a website to count the approximate threads that used in dress to make.
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+It is the projects which is absoultely nothing it doesnt solve anything 
+
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+It doesnt give us any solution it just count the threads 
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+Python → Best for AI/ML training and image processing (OpenCV, TensorFlow, PyTorch).
+
+JavaScript → For running models in the browser (TensorFlow.js, WebGL).
+
+HTML/CSS → To build your V0 Versal website front‑end.
+
+TypeScript → Optional, for cleaner JS code in larger projects.
+
+🔧 Core Technologies
+OpenCV (Python or JS) → Image processing (edge detection, weave pattern analysis).
+
+TensorFlow / Keras (Python) → Training AI models to estimate thread density.
+
+TensorFlow.js (JavaScript) → Running trained models directly in your website.
+
+PyTorch (Python) → Alternative ML framework if you prefer flexibility.
+
+NumPy / SciPy → For mathematical calculations and preprocessing.
+
+🌐 Web Frameworks
+Flask (Python) → Simple backend to serve AI predictions to your site.
+
+Django (Python) → More structured backend if you want a full web app.
+
+React.js (JavaScript) → For building interactive front‑end components.
+
+Next.js (JavaScript/TypeScript) → Server‑side rendering + AI integration.
+
+V0 Versal → Your site builder, where you embed the front‑end code.
+
+🤖 AI Training Options
+Classical Image Processing → OpenCV edge detection + math formulas (simplest).
+
+CNN (Convolutional Neural Network) → Train a model to predict thread density from fabric images.
+
+Transfer Learning → Use pre‑trained models (like MobileNet) and fine‑tune them on fabric datasets.
+
+📊 Deployment
+TensorFlow.js → Run AI in the browser (no backend needed).
+
+Flask/Django API → Host your trained model and send results to your site.
+
+Docker → Package your AI app for easy deployment.
+
+Versal Integration → Embed JS/HTML code blocks directly into your V0 site.
+  
+
 
 For Hardware:
 - [List main components]
@@ -37,25 +81,28 @@ For Hardware:
 - [List tools required]
 
 ### Implementation
-For Software:
+pip install tensorflow keras
 # Installation
-[commands]
+# Docker
+sudo apt-get install docker.io   # Linux
+brew install --cask docker       # Mac
 
 # Run
-[commands]
+python file.py
 
 ### Project Documentation
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+<img width="1242" height="793" alt="image" src="https://github.com/user-attachments/assets/b5f02f06-3b03-45c9-aa9f-d305f65d53fa" />
+A plain page which does not show dress
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+<img width="987" height="798" alt="image" src="https://github.com/user-attachments/assets/959bfe23-a221-47e9-9698-7d70fffbebdb" />
+it count threads of a dress
+
+<img width="1259" height="853" alt="image" src="https://github.com/user-attachments/assets/90ac80bf-8e95-42da-853a-b48e1ce4e1e5" />
+it count threads of another dress
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
@@ -82,16 +129,16 @@ For Hardware:
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+https://drive.google.com/file/d/1zlJr8D4G2LHTuWFSJ2avqMF984miD7Hl/view?usp=drivesdk
+it shows three stages of counting of threads 
 
 # Additional Demos
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- [Name 1]: Idea and coding 
+- [Name 2]: Idea and coding
+  
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
